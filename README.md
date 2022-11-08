@@ -15,5 +15,7 @@ Note that this dataset is a snapshot that is not continuously updated. The bot c
 | usercount      | double | total number of users     |
 | instancecount  | double | total number of instances |
 | tootscount     | double | total number of toots     |
+
+### Data collection
 If you want to learn how exactly the data was collected check out the source code for the bot at https://github.com/gallizoltan/usercount.
 
